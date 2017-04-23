@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nestor-gm/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1#readme",
   "dependencies": {
+    "gulp-shell": "^0.6.3",
     "mocha": "^3.2.0",
     "should": "^11.2.1"
   },
