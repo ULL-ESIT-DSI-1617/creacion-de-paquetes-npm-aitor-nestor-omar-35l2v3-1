@@ -12,6 +12,17 @@
   },
   "keywords": [],
   "author": "aitor-nestor-omar",
+  "contributors" : [
+    {
+      "name": "Aitor Bernal Falcon"
+    },
+    {
+      "name": "Nestor Garcia Moreno"
+    },
+    {
+      "name": "Omar Mendo Mesa"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nestor-gm/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1/issues"
