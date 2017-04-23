@@ -1,0 +1,27 @@
+{
+  "name": "creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1",
+  "version": "1.0.0",
+  "description": "creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1 created by GitHub Classroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --require should"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nestor-gm/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1.git"
+  },
+  "keywords": [],
+  "author": "aitor-nestor-omar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nestor-gm/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1/issues"
+  },
+  "homepage": "https://github.com/nestor-gm/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1#readme",
+  "dependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
