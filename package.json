@@ -1,6 +1,6 @@
 {
   "name": "ull-shape-aitor-nestor-omar-35l2v3-1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1 created by GitHub Classroom",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "aitor-nestor-omar",
-  "contributors" : [
+  "contributors": [
     {
       "name": "Aitor Bernal Falcon"
     },
