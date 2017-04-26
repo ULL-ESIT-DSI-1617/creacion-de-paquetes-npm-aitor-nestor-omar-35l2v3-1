@@ -14,7 +14,7 @@ Para poder crear paquetes y poder subirlos a [npm](https://www.npmjs.com/), debe
 "version": "1.0.0",
 "description": "Repositorio para el módulo npm de shape (aitor-nestor-omar)",
 ``` 
-* Nos logeamos con nuestra cuenta de ```npm``` en nuestra terminal (sólo es necesario una vez por sesión)
+* Nos logeamos con nuestra cuenta ```npm``` en nuestra terminal (sólo es necesario una vez por sesión)
 ```shell
 $ npm adduser
 ```
