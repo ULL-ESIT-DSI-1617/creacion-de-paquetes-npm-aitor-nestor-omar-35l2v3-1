@@ -1,6 +1,6 @@
 {
   "name": "@aitor-nestor-omar/ull-shape",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "bin": "./bin/calcularArea.js",
   "description": "creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1 created by GitHub Classroom",
   "main": "index.js",
