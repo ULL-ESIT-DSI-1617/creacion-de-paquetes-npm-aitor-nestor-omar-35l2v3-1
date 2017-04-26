@@ -1,9 +1,10 @@
-var Figura = require('../lib/shape.js')
+let Figura = require('../lib/shape.js')
+let should = require('should')
 
-describe("getArea",function()  {
-  it("must compute the triangle area correctly", function() {
+describe("Shape",function()  {
+  it("must not compute the shape area correctly", function() {
     let a = new Figura('Triangle', {width: 100, heigth: 100});
-    var result = a.getArea();
-    result.should.match(/^5000$/);
+    let s = a.getArea();
+    should(s).be.null;
   })
 });
