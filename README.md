@@ -1,5 +1,5 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-blue.svg?style=flat-square)](#contributors)
-Travis
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1)
 
 # Práctica: Creación de paquetes npm
 Repositorio para el módulo npm de la figura geométrica "square" (aitor-nestor-omar)
