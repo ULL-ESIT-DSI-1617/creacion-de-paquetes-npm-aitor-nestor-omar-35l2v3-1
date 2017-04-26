@@ -1,4 +1,5 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-blue.svg?style=flat-square)](#contributors)
+Travis
 
 # Práctica: Creación de paquetes npm
 Repositorio para el módulo npm de la figura geométrica "square" (aitor-nestor-omar)
