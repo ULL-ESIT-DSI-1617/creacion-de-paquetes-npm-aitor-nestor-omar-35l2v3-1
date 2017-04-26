@@ -1,10 +1,12 @@
 {
-  "name": "ull-shape-aitor-nestor-omar-35l2v3-1",
-  "version": "1.0.1",
+  "name": "@aitor-nestor-omar/ull-shape",
+  "version": "1.0.0",
+  "bin": "./bin/calcularArea.js",
   "description": "creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1 created by GitHub Classroom",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --require should"
+    "test": "./node_modules/mocha/bin/mocha --require should",
+    "doc": "documentation build ./lib/shape.js -f html -o docs"
   },
   "repository": {
     "type": "git",
