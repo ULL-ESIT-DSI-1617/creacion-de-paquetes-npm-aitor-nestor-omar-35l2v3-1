@@ -7,7 +7,7 @@ Repositorio para el módulo npm de la figura geométrica "square" (aitor-nestor-
 Enlace a la [práctica](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicamodulestrategypattern.html)
 
 ### Paquetes npm de la práctica
-* Repositorio de la figura [Triangle]()
+* Repositorio de la figura [Triangle](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-triangle)
 * Repositorio de la figura [Rectangle](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-aitornestoromar-rectangle)
 * Repositorio de la figura [Square](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-aitor-nestor-omar-35l2v3-1-square)
 
